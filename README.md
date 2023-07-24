@@ -1,5 +1,12 @@
 # Yahoo-Troll-Question-Detection
 
+*Team Name : Gryffindor
+
+*Team Members : 
+    * Akanksha Shukla - https://github.com/imshukla12
+    * Aakanksha Rani - https://github.com/Srivastava-Rani-Aakanksha
+
+
 Problem Statement
 * As a last-ditch attempt to give Yahoo Answers some legitimacy in the era of Quora and Reddit, Yahoo's CEO Merissa Meyer has tasked us with creating a machine learning model to detect spam and troll questions so that they can be removed.
 
@@ -31,10 +38,4 @@ Key Steps and Accomplishments:
   * Assessed the performance of various models on the test dataset to gauge their effectiveness.
   * Analyzed and documented the results of each model iteration.
 
-
-Team Name : Gryffindor
-
-Team Members : 
-    * Akanksha Shukla - https://github.com/imshukla12
-    * Aakanksha Rani - https://github.com/Srivastava-Rani-Aakanksha
 
