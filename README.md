@@ -32,8 +32,9 @@ Key Steps and Accomplishments:
   * Analyzed and documented the results of each model iteration.
 
 
-* Team Name : Gryffindor
-* Team Members : 
+Team Name : Gryffindor
+
+Team Members : 
     * Akanksha Shukla - https://github.com/imshukla12
     * Aakanksha Rani - https://github.com/Srivastava-Rani-Aakanksha
 
