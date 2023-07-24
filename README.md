@@ -3,8 +3,8 @@
 Team Name : Gryffindor
 
 Team Members : 
-    * Akanksha Shukla - https://github.com/imshukla12
-    * Aakanksha Rani - https://github.com/Srivastava-Rani-Aakanksha
+Akanksha Shukla - https://github.com/imshukla12
+Aakanksha Rani - https://github.com/Srivastava-Rani-Aakanksha
 
 
 Problem Statement
