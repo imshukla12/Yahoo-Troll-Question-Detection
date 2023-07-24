@@ -1,8 +1,8 @@
 # Yahoo-Troll-Question-Detection
 
-*Team Name : Gryffindor
+Team Name : Gryffindor
 
-*Team Members : 
+Team Members : 
     * Akanksha Shukla - https://github.com/imshukla12
     * Aakanksha Rani - https://github.com/Srivastava-Rani-Aakanksha
 
