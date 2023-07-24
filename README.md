@@ -1,7 +1,7 @@
 # Yahoo-Troll-Question-Detection
 
 Problem Statement
-As a last-ditch attempt to give Yahoo Answers some legitimacy in the era of Quora and Reddit, Yahoo's CEO Merissa Meyer has tasked us with creating a machine learning model to detect spam and troll questions so that they can be removed.
+* As a last-ditch attempt to give Yahoo Answers some legitimacy in the era of Quora and Reddit, Yahoo's CEO Merissa Meyer has tasked us with creating a machine learning model to detect spam and troll questions so that they can be removed.
 
 This project focuses on binary classification by developing a machine learning model to determine whether a given statement is a troll or not. The dataset utilized for training and testing is sourced from Kaggle, specifically tailored for Yahoo troll question detection. To enhance the data processing pipeline, the Natural Language Toolkit (nltk) and pickle were employed in combination with various machine learning algorithms. The end-to-end solution includes data preprocessing, feature engineering, and the implementation of classification models to accurately detect troll statements, contributing to a more trustworthy and reliable content environment.
 
@@ -32,8 +32,8 @@ Key Steps and Accomplishments:
   * Analyzed and documented the results of each model iteration.
 
 
-Team Name : Gryffindor
-Team Members : 
-Akanksha Shukla - https://github.com/imshukla12
-Aakanksha Rani - https://github.com/Srivastava-Rani-Aakanksha
+* Team Name : Gryffindor
+* Team Members : 
+    * Akanksha Shukla - https://github.com/imshukla12
+    * Aakanksha Rani - https://github.com/Srivastava-Rani-Aakanksha
 
